@@ -1,0 +1,3 @@
+pkg update,pkg upgrade,pkg list-all,pkg install
+abook,pkg install git,pkg install apt,pkg insta
+ll nano,nano contoh.txt
